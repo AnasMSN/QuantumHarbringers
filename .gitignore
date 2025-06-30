@@ -1,2 +1,4 @@
 .env
 **/__pycache__/
+**/qiskit_addon_sqd.egg-info/
+**/qiskit_addon_sqd
