@@ -1,0 +1,9 @@
+dataclasses
+dotenv
+matplotlib
+numpy
+os
+qiskit
+qiskit_addon_sqd
+qiskit_ibm_runtime
+typing
